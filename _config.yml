@@ -1,15 +1,14 @@
 # Site settings
-title: Clean Blog
+title: Sam Elamin
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+email: hussam.elamin@gmail.com
+copyright_name: samelamin
+description: "Big Data Engineer. Interested in Big Data, Metrics Driven Development and Real Time Analytics with Apache Spark and BigQuery"
+url: "http://samelamin.github.com"
+twitter_username: samelamin
+github_username:  samelamin
+facebook_username:  #
+email_username:  hussam.elamin@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
